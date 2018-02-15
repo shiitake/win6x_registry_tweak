@@ -1,4 +1,4 @@
-# win6x_registry_tweak
+# win6x_registry_tweak v1.4.7
 *This little tool un-hides "packages" like Windows Media Center/Player, IE, IIS, Games, etc... so you can lower the size of your install.wim*
 
 ### Important Disclaimer: I did not write this code.  
