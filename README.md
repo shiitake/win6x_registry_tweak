@@ -9,6 +9,7 @@ I cannot offer any support or bug fixes; I have not built the project and will m
 
 ##### The latest notes from the forum post above include the following: 
 
+<img src="https://github.com/shiitake/win6x_registry_tweak/blob/master/post-125866-0-02086700-1311877198.png" width="900" />
 Top left is un-hiding a specific package, top right is writing the log of available files to a txt file, bottom left is un-hiding all components of an image and finally the bottom right is un-hiding all the packages from current installed OS.
 
 *install_wim_tweak.exe /?*  
