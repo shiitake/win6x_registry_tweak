@@ -3,7 +3,7 @@
 
 ### Important Disclaimer: I did not write this code.  
 
-#### I've added it to github for posterity sake. It has been floating around for years and was recently mentioned on reddit. It looks like several people have worked on it. The most recent (that I found) was Legolash2o on the [msfn.org forums](https://msfn.org/board/topic/152688-win6x_registry_tweak/). Possibly this github user by the same name https://github.com/Legolash2o.
+#### I've added it to github for posterity sake. It has been floating around for years and was recently mentioned on reddit. It looks like several people have worked on it. Originally it was created by Michał Wnuowski in 2008 and more recent it was worked on by Legolash2o on the [msfn.org forums](https://msfn.org/board/topic/152688-win6x_registry_tweak/). Possibly this github user by the same name https://github.com/Legolash2o.
 
 I cannot offer any support or bug fixes; I have not built the project and will most likely not merge any pull requests. Feel free to fork the repo. 
 
